@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qozacusinero.netlify.app/sitemap.xml
